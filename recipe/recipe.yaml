@@ -1,5 +1,5 @@
 context:
-  version: "25.0.8"
+  version: "25.0.9"
 
 package:
   name: semantic-release
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/semantic-release/-/semantic-release-${{ version }}.tgz
-  sha256: e96a507593aea37f1d779e08be21f77d5756730ed528d05a1a03a1687ef5d6fc
+  sha256: cb88d5c8a23a5127b561793764735d5270cfd3dd6eaa041a08edf712a5533062
 
 build:
   number: 0
